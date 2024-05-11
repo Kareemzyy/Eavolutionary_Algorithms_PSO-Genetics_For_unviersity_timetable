@@ -1,0 +1,46 @@
+Day,Time Slot,Hall,Course & Professor
+Sunday,16,18Z,Math2-> Dr.Amany Mostafa
+Sunday,10,2,Networks Security-> Dr.Abdallh Yassin
+Sunday,12,15A,OR-> Dr.Safaa Magdi
+Sunday,12,2,OS1-> Dr.Ahmed Hesham
+Sunday,16,15A,NLP-> Dr.Islam Gamal
+Sunday,10,6B,Netwroks-> Dr.Rowida Sadik
+Sunday,8,2,Speech Processing-> Dr.Yasser Hanafy
+Sunday,10,15A,Theory of Scientific Calculations-> Dr.Ahmed Hesham
+Sunday,14,1,Networks Security-> Dr.Abdallh Yassin
+Sunday,14,6A,SW2-> Dr.Salwa Osama
+Monday,16,17B,Elctronics-> Dr.Azza Mohamed
+Monday,16,2,Computer Programming-> Dr.Soha Ahmed
+Monday,12,2,Internet Application->  Dr.Hanan Fahmy
+Monday,16,6A,Sw1-> Dr.Amr Ghonim
+Monday,8,15A,Algorithms-> Dr.Mohamed Saeed
+Monday,10,15A,Microprocessing-> Dr.Hossam Shmardn
+Monday,16,15A,Administrative information system-> Dr.Ahmed El Sayed
+Monday,12,18Z,Computer Drawing Systems-> Dr.Mohamed Saeed
+Monday,14,6A,Netwroks-> Dr.Rowida Sadik
+Monday,14,18Z,Math2-> Dr.Doaa Gamal
+Monday,8,17B,Signals-> Dr.Magid Wafie
+Tuesday,16,2,Statistics2-> Dr.Ahmed Mahsoob
+Tuesday,8,18Z,Translators-> Dr.Soha Ahmed
+Tuesday,12,6B,Distributed Systems and Cloud-> Dr.Islam Gamal
+Tuesday,10,6A,OR-> Dr.Helal Ahmed
+Tuesday,14,18Z,Statistics-> Dr.Ahmed Mahsob
+Tuesday,16,6B,Signals-> Dr.Hossam Shmardn
+Tuesday,10,15A,Algorithms-> Dr.Wassam El Bahadi
+Tuesday,10,18Z,Sw1-> Dr.Amr Ghonim
+Tuesday,8,6B,OS1-> Dr.Ahmed Hesham
+Wednesday,14,17B,IT-> Dr.Mohamed El Kholi
+Wednesday,14,18Z,Internet Application->  Dr.Hanan Fahmy
+Wednesday,14,15A,EA-> Dr.Amr Ghonim
+Wednesday,16,18Z,Accounting-> Dr.Siliva
+Wednesday,16,2,Management of information centers-> Dr.Abdallh Yassin
+Thursday,16,6A,SA2-> Dr.Wael Abbas
+Thursday,12,2,Discrete Mathematics-> Dr.Ibrahim Abdl Latif
+Thursday,16,18Z,AML-> Dr.Islam Gamal
+Thursday,16,6B,English2-> Dr.Engy Salah
+Thursday,16,2,Pattern Recognition-> Dr.Yasser Hanafy
+Thursday,8,1,SW2-> Dr.Salwa Osama
+Thursday,8,2,Discrete Mathematics-> Dr.Ibrahim Abdl Latif
+Thursday,10,17B,Elctronics-> Dr.Azza Mohamed
+Thursday,14,17B,Robotics-> Dr.Hossam Shmardn
+Thursday,16,1,Deccision Support-> Dr.Mohamed Ali

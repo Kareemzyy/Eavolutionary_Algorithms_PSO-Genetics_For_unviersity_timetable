@@ -1,0 +1,46 @@
+Day,Time Slot,Hall,Course & Professor
+Saturday,12,6B,Netwroks-> Dr.Rowida Sadik
+Saturday,14,2,English2-> Dr.Engy Salah
+Saturday,12,6A,Administrative information system-> Dr.Ahmed El Sayed
+Sunday,14,2,Math2-> Dr.Amany Mostafa
+Sunday,16,1,OR-> Dr.Safaa Magdi
+Sunday,10,18Z,SA2-> Dr.Wael Abbas
+Sunday,14,15A,SW2-> Dr.Salwa Osama
+Sunday,14,18Z,OS1-> Dr.Ahmed Hesham
+Sunday,10,1,Sw1-> Dr.Amr Ghonim
+Sunday,12,17B,Signals-> Dr.Hossam Shmardn
+Sunday,16,6A,Theory of Scientific Calculations-> Dr.Ahmed Hesham
+Sunday,8,15A,Elctronics-> Dr.Azza Mohamed
+Sunday,12,18Z,Discrete Mathematics-> Dr.Ibrahim Abdl Latif
+Sunday,8,6A,SW2-> Dr.Salwa Osama
+Sunday,14,6B,Netwroks-> Dr.Rowida Sadik
+Monday,16,15A,Networks Security-> Dr.Abdallh Yassin
+Monday,14,17B,IT-> Dr.Mohamed El Kholi
+Monday,10,6B,Statistics2-> Dr.Ahmed Mahsoob
+Tuesday,14,6A,Management of information centers-> Dr.Abdallh Yassin
+Tuesday,16,6B,Robotics-> Dr.Hossam Shmardn
+Tuesday,10,18Z,AML-> Dr.Islam Gamal
+Tuesday,16,17B,Pattern Recognition-> Dr.Yasser Hanafy
+Tuesday,12,6A,Distributed Systems and Cloud-> Dr.Islam Gamal
+Tuesday,12,15A,OS1-> Dr.Ahmed Hesham
+Tuesday,16,6A,Elctronics-> Dr.Azza Mohamed
+Tuesday,10,6B,Discrete Mathematics-> Dr.Ibrahim Abdl Latif
+Tuesday,16,18Z,Sw1-> Dr.Amr Ghonim
+Tuesday,12,6B,Math2-> Dr.Doaa Gamal
+Wednesday,16,6B,Networks Security-> Dr.Abdallh Yassin
+Wednesday,10,18Z,Internet Application->  Dr.Hanan Fahmy
+Wednesday,12,18Z,Statistics-> Dr.Ahmed Mahsob
+Wednesday,8,1,Deccision Support-> Dr.Mohamed Ali
+Wednesday,10,2,Algorithms-> Dr.Mohamed Saeed
+Wednesday,14,6A,Algorithms-> Dr.Wassam El Bahadi
+Wednesday,16,1,Accounting-> Dr.Siliva
+Wednesday,12,15A,Microprocessing-> Dr.Hossam Shmardn
+Thursday,10,1,OR-> Dr.Helal Ahmed
+Thursday,14,1,Internet Application->  Dr.Hanan Fahmy
+Thursday,12,17B,NLP-> Dr.Islam Gamal
+Thursday,14,6A,Speech Processing-> Dr.Yasser Hanafy
+Thursday,14,6B,Computer Programming-> Dr.Soha Ahmed
+Thursday,10,2,Signals-> Dr.Magid Wafie
+Thursday,12,6A,Computer Drawing Systems-> Dr.Mohamed Saeed
+Thursday,10,6B,Translators-> Dr.Soha Ahmed
+Thursday,12,6B,EA-> Dr.Amr Ghonim
